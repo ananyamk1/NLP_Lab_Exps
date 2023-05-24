@@ -1,6 +1,7 @@
 # NLP_Lab_Exps
 
 Exp 01 - Python IDE installation and environment setup, NLTK, Numpy, Matplotlib etc packages installation, and Tokenization
+
 Exp 02 - Implementation of Stemming using NLTK and Lemmatization using NLTK and Spacy
 Exp 03 - Word Analysis – To learn about the morphological features of a word by analyzing it
 Exp 04 - Implement unigram, bigram, and trigram from a given corpus and calculate the probability of a sentence.
